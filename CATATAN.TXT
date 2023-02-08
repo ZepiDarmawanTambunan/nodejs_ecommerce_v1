@@ -1,0 +1,13 @@
+- npm init
+- buat database di mongo db
+- buat env
+- buat struktur folder
+- melakukakn db connect
+- tes atur 1 model saja dlu utk testing
+- buat controller dan routes sederhana saja utk testing
+- kalau sudah baru yg pertama kali kita susun adalah auth dibagian middleware
+
+- body parser utk handle request body dlm bentuk json
+- npm i express-async-handler (menangani async pada express)
+- npm i bcrypt
+- npm i jsonwebtoken (utk membuat token)
