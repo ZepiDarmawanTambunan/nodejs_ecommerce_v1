@@ -1,3 +1,5 @@
+- buat mongo db
+- dibagian network access isikan saja ip nya 0.0.0.0/0 agar bisa diakses siapapun karena kita masih tes atau bisa tentukan saja pc anda
 - npm init
 - buat database di mongo db
 - buat env
@@ -11,3 +13,4 @@
 - npm i express-async-handler (menangani async pada express)
 - npm i bcrypt
 - npm i jsonwebtoken (utk membuat token)
+- npm i cookie-parser
