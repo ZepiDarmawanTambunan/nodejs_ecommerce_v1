@@ -13,4 +13,6 @@
 - npm i express-async-handler (menangani async pada express)
 - npm i bcrypt
 - npm i jsonwebtoken (utk membuat token)
-- npm i cookie-parser
+- npm i cookie-parser (utk menempatkan token ke cookie)
+- npm i morgan (utk upload file)
+- npm i slugify
